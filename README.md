@@ -48,7 +48,7 @@ Built Wanderlust to gain practical experience in full-stack development. While w
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/SnehaNagure17/Wanderlust.git
 ```
 
 2. Go to the project folder:
