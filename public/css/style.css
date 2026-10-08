@@ -115,7 +115,7 @@ body {
   width: 90vh;
 }
 
-/* tax-info style */
+/* filters style */
 
 #filters {
   display: flex;
@@ -139,6 +139,7 @@ body {
   font-size: 0.8rem;
 }
 
+/* tax-info style */
 .tax-info {
   display: none;
 }
